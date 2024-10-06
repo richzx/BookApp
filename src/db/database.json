@@ -1,0 +1,103 @@
+[
+  {
+    "id": 0,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "3.5",
+    "name": "Bangook Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso",
+      "Miedo"
+    ]
+  },
+  {
+    "id": 1,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "6",
+    "name": "Gunter Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso"
+    ]
+  },
+  {
+    "id": 2,
+    "new": "",
+    "favorite": "false",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "5",
+    "name": "Glojunter Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso",
+      "Miedo",
+      "Fantasia"
+    ]
+  },
+  {
+    "id": 3,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "6",
+    "name": "Bunny Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso"
+    ]
+  },
+  {
+    "id": 4,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "6",
+    "name": "Lion Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso"
+    ]
+  },
+  {
+    "id": 5,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "6",
+    "name": "Rabbit and Turtle Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso"
+    ]
+  },
+  {
+    "id": 6,
+    "new": "true",
+    "favorite": "true",
+    "image": "https://ximg.es/600x400/000/fefefe",
+    "stars": "6",
+    "name": "Gunter Book",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos. Nam sed suscipit nisi minima eos quasi optio doloribus esse enim quos.",
+    "categories": [
+      "Bélica",
+      "Terror",
+      "Suspenso"
+    ]
+  }
+]
